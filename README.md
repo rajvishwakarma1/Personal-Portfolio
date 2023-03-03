@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="50%" height="50%" src="assets/img/code.png"/>
+  <img width="20%" height="20%" src="assets/img/code.png"/>
 </p>
 <h1 align="center">
   rajvishwakarma.me - v1
