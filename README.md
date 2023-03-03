@@ -3,5 +3,5 @@
 Updated website with better visuals
 
 <p align= "center">
-<a href="assets/img/code.png" rel="icon>
+<img src="assets/img/code.png"/>
 </p>
